@@ -1,6 +1,6 @@
 import {useState} from "react";
 function App(){
-    const [name, setName] = useState("Kanha");
+    const [name, setName] = useState("Krishna");
     return (
         <>
         <input
